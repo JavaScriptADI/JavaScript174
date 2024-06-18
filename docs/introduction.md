@@ -1,5 +1,10 @@
 # Introduction to Programming
 
+### Prerequisites
+
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Node.js (optional)](https://nodejs.org/en/)
+
 Programming is the process of creating a set of instructions that tell a computer how to perform a task. Programming can be done using a variety of computer "languages," such as SQL, Java, Python, and C++.
 
 Example:
