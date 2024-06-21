@@ -7,7 +7,8 @@
 
 
 ### Assignments
-
+[How to submit assignments](https://www.youtube.com/watch?v=jXpT8eOzzCM)
+ 
 - [Assignment 1](https://classroom.github.com/a/nnrg5g1k)
 
 
