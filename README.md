@@ -10,6 +10,7 @@
 [How to submit assignments](https://www.youtube.com/watch?v=jXpT8eOzzCM)
  
 - [Assignment 1](https://classroom.github.com/a/nnrg5g1k)
+- [Assignment 2](https://classroom.github.com/a/ZNd9YJdH)
 
 
 ### Table of Contents
