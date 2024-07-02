@@ -1,5 +1,13 @@
 # JavaScript
 
+
+# Basics of Programming
+- Variables / Data Types / Operators
+- Conditional Statements
+- Loops
+- Data Structures
+- Functions
+
 ### Resources
 - [JavaScript Book](https://1drv.ms/b/s!AmZJMrBsKhiOh8UDJDRDATZCy9M9VA?e=nbPyH9)
 - [JavaScript MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
