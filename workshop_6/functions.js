@@ -11,12 +11,12 @@
 */
 
 // Global scope
-const name = "Joe";
+const gName = "Joe";
 
 // Function definiton / declaration
 function greet(user) {
     // Each call user variable will be created and assigned to the value passed
-    return `${name} greets you ${user} are you today?`;
+    return `${gName} greets you ${user}, How are you today?`;
     // user variable will be destroyed after the function is done
 }
 
