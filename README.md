@@ -5,7 +5,7 @@
 - Variables / Data Types / Operators
 - Conditional Statements
 - Loops
-- Data Structures
+- Data Structures ( Arrays / Objects )
 - Functions
 
 ### Resources
